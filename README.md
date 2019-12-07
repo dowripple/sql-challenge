@@ -23,12 +23,12 @@ This project imports the Pewlett Hackard employee data into a PostGreSQL databas
 *Pewlett Hackard Employee DB ERD*
 
 #### Bonus Charts
+- Chart 1
 
-1. Chart 1
 ![dist_salary](EmployeeSQL/images/dist_salary.png)
 *Distribution of All Employee Salaries*
 
-2. Chart 2
+- Chart 2
 ![avg_salary_by_title](EmployeeSQL/images/avg_salary_by_title.png)
 *Average Salary by Title Bar Chart*
 
