@@ -15,7 +15,7 @@ This project imports the Pewlett Hackard employee data into a PostGreSQL databas
 |---------------------|---------------------|-----------------------------------------------------------------------------------|
 |[avg_salary_by_title](EmployeeSQL/images/avg_salary_by_title.png)    |\EmployeeSQL\images     |Chart for average salary by title       |
 |[bonus_notebook.ipynb](EmployeeSQL/bonus_notebook.ipynb)   |\EmployeeSQL     |Bonus Jupyter Notebook                                 |
-|[data_analysis.sql](EmployeeSQL/data_analysis.sql)    |\EmployeeSQL         |Adhoc anlaysis, not part of assingment                           |
+|[data_analysis.sql](EmployeeSQL/data_analysis.sql)    |\EmployeeSQL         |Adhoc anlaysis, not part of assignment                           |
 |[dist_salary.png](EmployeeSQL/images/dist_salary.png)    |\EmployeeSQL\images    |Chart for distribution of all employee salaries        |
 |[employee_db_ddl.sql](EmployeeSQL/employee_db_ddl.sql)  |\EmployeeSQL         |Script to create tables, or data definition language              |
 |[employee_erd.png](EmployeeSQL/images/employee_erd.png)     |\EmployeeSQL\images  |ERD, created by using quickdatabasediagrams.com                  |                
