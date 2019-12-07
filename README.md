@@ -11,8 +11,8 @@ This project imports the Pewlett Hackard employee data into a PostGreSQL databas
 
 #### Contents
 
-| File                | Location            | Description                                         |
-|---------------------|---------------------|-----------------------------------------------------|
+| File                | Location            | Description                                                                       |
+|---------------------|---------------------|-----------------------------------------------------------------------------------|
 |[data_analysis.sql](EmployeeSQL/data_analysis.sql)    |\EmployeeSQL         |Adhoc anlaysis, not part of assingment                  |
 |[employee_db_ddl.sql](EmployeeSQL/employee_db_ddl.sql)  |\EmployeeSQL         |Script to create tables, or data definition language    |
 |[employee_erd.png](EmployeeSQL/images/employee_erd.png)     |\EmployeeSQL\images  |ERD, created by using quickdatabasediagrams.com         |                
