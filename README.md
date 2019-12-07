@@ -22,6 +22,7 @@ This project imports the Pewlett Hackard employee data into a PostGreSQL databas
 |[queries.sql](EmployeeSQL/queries.sql)          |\EmployeeSQL         |Homework queries                                                  |
 
 #### Database Model
+Note that for the diagram I keep all of the composite primary keys together.  I think it looks cleaner for the ERD.  I modified the DDL so that the columns are in the same order as the csv files, due to laziness.
 ![Pewlett Hackard Employee DB ERD](EmployeeSQL/images/employee_erd.png)
 *Pewlett Hackard Employee DB ERD*
 
