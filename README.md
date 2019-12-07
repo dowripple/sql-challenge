@@ -11,3 +11,4 @@
 |employee_erd.png     |\EmployeeSQL\images  |ERD, created by using quickdatabasediagrams.com      |                
 |queries.sql          |\EmployeeSQL         |Homework queries                                     |
 
+![Pewlett Hackard Employee DB ERD](images/employee_erd.png)
